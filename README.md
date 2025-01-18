@@ -1,8 +1,8 @@
 
         TT       TT       TT       TT
-      TT   TT   TT   TT   TT   TT   TT
-    TT       TT TT       TT TT       TT
-  TT           TT           TT           TT
+      TT   TT   TT   TT   TT   TT     TT
+    TT       TT TT        TT TT         TT
+  TT           TT           TT            TT
  TT             TT           TT             TT
  TT             TT           TT             TT
   TT           TT             TT           TT
